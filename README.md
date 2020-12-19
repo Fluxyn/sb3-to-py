@@ -3,20 +3,22 @@ sb3-to-py is a command line tool for converting Scratch 3 files (.sb3) to Python
 
 Please let me know if you would like to use this tool in the future, test it or help/contribute. If you decide to use this and find any errors, please open up a new issue [here](https://github.com/lukarao/sb3-to-py/issues/new), so I will work on fixing it as soon as I can.
 
-# Future Example Usage
+###### Note: the current release of sb3-to-py is very glitchy and sometimes does not work properly.
 
-###### Note: the methods below are purely consepts, not features.
+# Example Usage
 
-Install sb3-to-py with PyPI (pip):
+Download the sb3-to-py from github:
 
-```console
-foo:~$ pip install sb3-to-py
-```
+![Screen Shot 2020-12-18 at 8 10 17 PM](https://user-images.githubusercontent.com/62384447/102676767-1ab14d00-416d-11eb-86d3-28fe4ff37781.png)
+
+Unzip the file and open a terminal tab:
+
+![Screen Shot 2020-12-18 at 8 15 09 PM](https://user-images.githubusercontent.com/62384447/102676954-f6a23b80-416d-11eb-9233-2d14d6e05f2e.png)
 
 Convert a python file from a scratch file:
 
 ```console
-foo:~$ sb3-to-py foo/bar/Documents/mygame.sb3
+foo:~$ python3 sb3-to-py foo/bar/Documents/mygame.sb3
 Reading file...
 Converting code...
 Rendering sprites...
