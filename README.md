@@ -1,9 +1,8 @@
 # sb3-to-py
-sb3-to-py is a command line tool for converting Scratch 3 files (.sb3) to Python (Pygame). sb3-to-py is currently in development and is now released only as a proof of concept.
+##### NOTE: sb3 to py is no longer activly maintained.
+sb3-to-py is a command line tool for converting Scratch 3 files (.sb3) to Python (Pygame). sb3-to-py is released only as a proof of concept.
 
 Please let me know if you would like to use this tool in the future, test it or help/contribute. If you decide to use this and find any errors, please open up a new issue [here](https://github.com/lukarao/sb3-to-py/issues/new), so I will work on fixing it as soon as I can.
-
-###### Note: the current release of sb3-to-py is very glitchy and sometimes does not work properly.
 
 # Example Usage
 
